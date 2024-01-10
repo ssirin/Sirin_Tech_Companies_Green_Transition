@@ -1,0 +1,110 @@
+
+\begin{tabular}{l|l|l|l|l|l}
+\hline
+  & GH/BH & wti\_return & whi\_return & vix\_return & FROM\\
+\hline
+GH/BH & 45.51 & 4.70 & 24.13 & 25.66 & 54.49\\
+\hline
+wti\_return & 6.94 & 77.83 & 8.74 & 6.49 & 22.17\\
+\hline
+whi\_return & 25.60 & 5.87 & 51.71 & 16.82 & 48.29\\
+\hline
+vix\_return & 27.85 & 4.85 & 16.96 & 50.34 & 49.66\\
+\hline
+TO & 60.39 & 15.42 & 49.83 & 48.97 & 174.61\\
+\hline
+Inc.Own & 105.90 & 93.25 & 101.54 & 99.31 & cTCI/TCI\\
+\hline
+NET & 5.90 & -6.75 & 1.54 & -0.69 & 58.20/43.65\\
+\hline
+NPT & 3.00 & 0.00 & 2.00 & 1.00 & \\
+\hline
+\end{tabular}
+
+\begin{tabular}{l|l|l|l|l|l}
+\hline
+  & GH/BL & wti\_return & whi\_return & vix\_return & FROM\\
+\hline
+GH/BL & 48.75 & 4.36 & 26.91 & 19.99 & 51.25\\
+\hline
+wti\_return & 5.71 & 78.97 & 8.76 & 6.57 & 21.03\\
+\hline
+whi\_return & 26.57 & 5.92 & 50.78 & 16.72 & 49.22\\
+\hline
+vix\_return & 21.98 & 5.29 & 18.46 & 54.27 & 45.73\\
+\hline
+TO & 54.27 & 15.57 & 54.12 & 43.27 & 167.23\\
+\hline
+Inc.Own & 103.01 & 94.54 & 104.90 & 97.55 & cTCI/TCI\\
+\hline
+NET & 3.01 & -5.46 & 4.90 & -2.45 & 55.74/41.81\\
+\hline
+NPT & 2.00 & 0.00 & 3.00 & 1.00 & \\
+\hline
+\end{tabular}
+
+\begin{tabular}{l|l|l|l|l|l}
+\hline
+  & GL/BH & wti\_return & whi\_return & vix\_return & FROM\\
+\hline
+GL/BH & 54.56 & 4.59 & 22.46 & 18.40 & 45.44\\
+\hline
+wti\_return & 5.97 & 78.76 & 8.80 & 6.47 & 21.24\\
+\hline
+whi\_return & 20.95 & 6.41 & 54.51 & 18.12 & 45.49\\
+\hline
+vix\_return & 18.73 & 5.41 & 19.31 & 56.56 & 43.44\\
+\hline
+TO & 45.65 & 16.41 & 50.56 & 42.99 & 155.61\\
+\hline
+Inc.Own & 100.21 & 95.17 & 105.08 & 99.55 & cTCI/TCI\\
+\hline
+NET & 0.21 & -4.83 & 5.08 & -0.45 & 51.87/38.90\\
+\hline
+NPT & 2.00 & 0.00 & 3.00 & 1.00 & \\
+\hline
+\end{tabular}
+
+\begin{tabular}{l|l|l|l|l|l}
+\hline
+  & GL/BL & wti\_return & whi\_return & vix\_return & FROM\\
+\hline
+GL/BL & 46.04 & 4.31 & 26.55 & 23.10 & 53.96\\
+\hline
+wti\_return & 6.42 & 79.01 & 8.35 & 6.22 & 20.99\\
+\hline
+whi\_return & 27.34 & 5.66 & 50.38 & 16.62 & 49.62\\
+\hline
+vix\_return & 25.62 & 4.81 & 17.63 & 51.94 & 48.06\\
+\hline
+TO & 59.38 & 14.78 & 52.53 & 45.94 & 172.63\\
+\hline
+Inc.Own & 105.42 & 93.79 & 102.91 & 97.88 & cTCI/TCI\\
+\hline
+NET & 5.42 & -6.21 & 2.91 & -2.12 & 57.54/43.16\\
+\hline
+NPT & 3.00 & 0.00 & 2.00 & 1.00 & \\
+\hline
+\end{tabular}
+
+\begin{tabular}{l|l|l|l|l|l}
+\hline
+  & arca\_log\_return & wti\_return & whi\_return & vix\_return & FROM\\
+\hline
+arca\_log\_return & 45.93 & 4.25 & 22.73 & 27.09 & 54.07\\
+\hline
+wti\_return & 6.34 & 78.42 & 8.69 & 6.55 & 21.58\\
+\hline
+whi\_return & 24.46 & 5.85 & 52.52 & 17.17 & 47.48\\
+\hline
+vix\_return & 29.23 & 4.66 & 16.78 & 49.33 & 50.67\\
+\hline
+TO & 60.03 & 14.76 & 48.21 & 50.81 & 173.81\\
+\hline
+Inc.Own & 105.96 & 93.18 & 100.73 & 100.14 & cTCI/TCI\\
+\hline
+NET & 5.96 & -6.82 & 0.73 & 0.14 & 57.94/43.45\\
+\hline
+NPT & 3.00 & 0.00 & 1.00 & 2.00 & \\
+\hline
+\end{tabular}
